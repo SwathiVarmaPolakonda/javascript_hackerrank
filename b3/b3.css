@@ -1,0 +1,48 @@
+.buttonContainer {
+                width: 148px;
+            }
+
+            .buttonContainer > .buttonClass {
+                width: 72px;
+                height: 48px;
+                font-size: 16px;
+            }
+
+
+            /*.res {
+    background-color:  lightgray;
+    border:  solid;
+    height: 48px;
+    font-size: 20px;
+    width: 98%;
+}
+
+.lgreen {
+     background-color: lightgreen;
+     color: brown;
+     width: 25%;
+     height: 36px;
+     font-size:  18px;
+     margin: 0px;
+     float: left;
+}
+
+.dgreen {
+    background-color: darkgreen;
+    color: white;
+    width: 25%;
+    height: 36px;
+    font-size:  18px;
+    margin: 0px;
+    float: left;
+}
+
+.operator {
+    background-color: black;
+    color: red;
+    width: 25%;
+    height: 36px;
+    font-size:  18px;
+    margin: 0px;
+    float: left;
+}*/
